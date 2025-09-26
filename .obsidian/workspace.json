@@ -15,7 +15,7 @@
               "state": {
                 "file": "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED"
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82488598ef4c6704",
@@ -161,16 +162,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f5ffb8713165d28f",
   "lastOpenFiles": [
+    "Oral Traditions and the Verbal Arts/00 Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
     "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
     "00 Templates/word.md",
     "00 Templates/highlight-term.md",
@@ -187,7 +190,6 @@
     "Oral Traditions and the Verbal Arts/Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
     "Welcome.md",
     "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology",
-    "Untitled",
-    "Oral Traditions and the Verbal Arts"
+    "Untitled"
   ]
 }

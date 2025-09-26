@@ -6,7 +6,7 @@
     border-left: 4px solid #dc2626; /* 直接定义颜色 */
     background-color: #dba4a4;
     color: #991b1b;
-    /* display: none; */
+    display: none;
 }
 
 /* .word::before{

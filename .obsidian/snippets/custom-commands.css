@@ -6,7 +6,7 @@
     border-left: 4px solid #dc2626; /* 直接定义颜色 */
     background-color: #dba4a4;
     color: #991b1b;
-    display: none;
+    /* display: none; */
 }
 
 /* .word::before{
@@ -21,4 +21,16 @@
     border-radius: 3px;
     font-weight: bold;
     border: 1px dashed #ffc107; /* 虚线边框 */
+}
+
+.small{
+    border-radius: 6px;
+    padding: 1px 8px; /* 减小内边距以适应更小的字体 */
+    margin: 12px 0;
+    border-left: 4px solid #dc2626;
+    background-color: #dba4a4;
+    color: #991b1b;
+    display: none;
+    font-size: 0.9em; /* 将字体大小设置为父元素的90% */
+    /* 或者使用固定的像素值，例如：font-size: 13px; */
 }

@@ -1,0 +1,28 @@
+{
+  "workspace:close-window": [],
+  "editor:toggle-readable-line-length": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "snippet-commands-obsidian:snippet-command-reload-all-snippets": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "snippet-commands-obsidian:snippet-command-custom-commands": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ]
+}

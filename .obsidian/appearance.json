@@ -1,0 +1,7 @@
+{
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "custom-commands"
+  ],
+  "showRibbon": true
+}

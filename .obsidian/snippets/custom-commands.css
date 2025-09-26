@@ -1,0 +1,24 @@
+/* 单词翻译批注 */
+.word{
+    border-radius: 6px; /* 圆角6像素 */
+    padding: 2px 12px; /* 内边距：上下2px，左右12px */
+    margin: 12px 0; /* 外边距：上下12px，左右0 */
+    border-left: 4px solid #dc2626; /* 直接定义颜色 */
+    background-color: #dba4a4;
+    color: #991b1b;
+    /* display: none; */
+}
+
+/* .word::before{
+    content: "⚠️ WORD: ";       
+    font-weight: bold;
+} */
+
+/* 高亮样式 */
+.highlight-term{
+    background-color: #fff3cd; /* 浅黄色背景 */
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    font-weight: bold;
+    border: 1px dashed #ffc107; /* 虚线边框 */
+}

@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "aef59969f788b35c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75ae8e8bb4d7fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ffb8713165d28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5adf2bbdac29fee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8792ed8ea4eff2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350fc08502e1c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "005a20fabdc8354b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d4fe25fa3f48754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82488598ef4c6704",
+    "type": "split",
+    "children": [
+      {
+        "id": "53628cc57de89399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35eb6132666f9c76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.2 ‘language’, ‘speech’ and ‘text’---some initial questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.2 ‘language’, ‘speech’ and ‘text’---some initial questions"
+            }
+          },
+          {
+            "id": "20bf4e56f0957424",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.2 ‘language’, ‘speech’ and ‘text’---some initial questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.2 ‘language’, ‘speech’ and ‘text’---some initial questions"
+            }
+          },
+          {
+            "id": "4cac168d3c70000a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "381384a9a6646af2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f5ffb8713165d28f",
+  "lastOpenFiles": [
+    "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
+    "00 Templates/word.md",
+    "00 Templates/highlight-term.md",
+    "00 Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
+    "00 Templates/highlight-term.js",
+    "inline-templates.md.md",
+    "00 Templates",
+    "未命名.canvas",
+    "未命名.base",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.2 ‘language’, ‘speech’ and ‘text’---some initial questions.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.1 Preview.md",
+    "Oral Traditions and the Verbal Arts/Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
+    "Welcome.md",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology",
+    "Untitled",
+    "Oral Traditions and the Verbal Arts"
+  ]
+}

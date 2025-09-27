@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82488598ef4c6704",
@@ -171,15 +172,17 @@
   },
   "active": "53a217c59a9ce7fd",
   "lastOpenFiles": [
-    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.5.md",
+    "Oral Traditions and the Verbal Arts/presentation.md",
     "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
-    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.4 texts：aspecial case.md",
-    "未命名",
-    "00 Templates/word-small.md",
     "Oral Traditions and the Verbal Arts/00 Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
-    "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.4 texts：aspecial case.md",
+    "00 Templates/word-small.md",
     "00 Templates/word.md",
     "00 Templates/highlight-term.md",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.1 Preview.md",
+    "Oral Traditions and the Verbal Arts/pre",
+    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.5.md",
+    "1.3 SOME CENTRAL TERMS—ACCEPTED AND DISPUTED.md",
     "00 Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
     "00 Templates/highlight-term.js",
     "inline-templates.md.md",
@@ -189,7 +192,6 @@
     "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.2 ‘language’, ‘speech’ and ‘text’---some initial questions.md",
     "Untitled.base",
     "Untitled 1.base",
-    "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology/1.1 Preview.md",
     "Oral Traditions and the Verbal Arts/Oral Traditions and the VerbalArts. A Guide to Research Practices (ASA Research Methods in SocialAnthropology).pdf",
     "Welcome.md",
     "Oral Traditions and the Verbal Arts/01 Introduction---scope and terminology"

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c903f07b19fd5486",
+        "id": "ad48a543766ee26a",
         "type": "tabs",
         "children": [
           {
-            "id": "4af98f540f9270a8",
+            "id": "8466727a6005c5bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "遗产旅游/选题思考.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "选题思考"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -169,21 +167,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4af98f540f9270a8",
+  "active": "8466727a6005c5bb",
   "lastOpenFiles": [
+    "毕业论文-恭王府景观叙事/文献资料",
+    "毕业论文-恭王府景观叙事",
+    "未命名 1.base",
+    "未命名.base",
+    "论文",
+    "小松和彦/陆薇薇 小松和彦与日本新妖怪学.md",
+    "论文/非遗本真性与商业化的讨论.md",
     "遗产旅游/参考文献.md",
-    "遗产旅游/选题思考.md",
+    "一下/世界民俗学/梅列金斯基“神话主义”.md",
+    "论文/礼俗.md",
+    "论文/活态传承.md",
     "tarot-pages-155-179-clean-zh.md",
-    "遗产旅游",
     "tarot-pages-155-179-clean.md",
+    "一下/世界民俗学/新神话主义.md",
     "c3f222ed14e8c4784293ad75ae86f28b.png",
     "b131293691885d63e7ae32a2426598d6.png",
     "7786453ba09fe2a9fb0bde235efeef82.png",
-    "975e08cd253ec3059e9d7ef8fd2cb107.png",
     "54ffbc0046a3f9f399096f117494dd45.png",
     "4f0c17e6c59688767826e595405af0a8.png",
-    "新神话主义.md",
-    "梅列金斯基“神话主义”.md",
+    "975e08cd253ec3059e9d7ef8fd2cb107.png",
+    "遗产旅游/选题思考.md",
+    "遗产旅游",
     "研一下/中外民间文学学术史/拓展阅读：祖先遗产与民俗学研究办公室.md",
     "tarot-pages-155-179.md",
     "研一上/跨文化/期中作业 研究方案.md",
@@ -204,15 +211,6 @@
     "研一上/跨文化/reading 4/周宪：跨文化研究：方法论与观念.md",
     "研一上/跨文化/reading 4/跨文化研究方法的回顾及展望（梁觉、周帆）.md",
     "研一上/跨文化/reading 4/何平 跨文化研究的理论和方法.md",
-    "研一上/跨文化/reading 2/巴得胜.跨文化主义的范式演变..md",
-    "研一上/跨文化/reading 1/朱谕.文化相对性建构.md",
-    "研一上/跨文化/reading 1/中西跨文化研究五十年-乐黛云.md",
-    "研一上/跨文化/reading 1/金丝燕.跨文化学的时代背景.md",
-    "研一上/跨文化/reading 1/《跨文化方法论初探》乐黛云.md",
-    "研一上/民间文艺学/创编与传承人",
-    "研一上/跨文化/reading13",
-    "研一上/民间文艺学/语言模型",
-    "研一上/民俗学原理/week 10 结构、形态与功能",
     "Pasted image 20251030142040.png",
     "研一上/民俗的形式.png",
     "研一上/墨菲oral literature.png",
